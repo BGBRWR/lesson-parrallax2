@@ -1,0 +1,25 @@
+.odd {
+    height: 70vh;
+    width: 100%;
+}
+
+.even {
+    width: 100%;
+    height: 10vh;
+}
+
+.img-one {
+    background: url('https://hd.unsplash.com/photo-1468818519844-64bc429824de');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img-two {
+    background: url('https://hd.unsplash.com/photo-1459445364195-16475050193c');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
